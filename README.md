@@ -11,3 +11,5 @@ The third edit in master branch is executed.
 The fourth edit is being executed.
 
 Second development branch has been created.
+
+The first edit on development branch has been executed.
